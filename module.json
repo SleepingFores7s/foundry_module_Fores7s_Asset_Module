@@ -67,10 +67,10 @@
       "color": "#045c5a",
       "sorting": "m",
       "packs": [
-        "Maps1",
-        "Journal1",
-        "Actors1",
-        "Items1"
+        "Maps",
+        "Journal",
+        "Actors",
+        "Items"
       ],
       "folders": []
     }
