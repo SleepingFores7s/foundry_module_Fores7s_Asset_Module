@@ -1,0 +1,83 @@
+{
+  "id": "fores7s-asset-module",
+  "title": "2. Fores7s Asset Module (SleepingFores7s)",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "Maps",
+      "label": "Maps",
+      "path": "packs/Maps",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "Journal",
+      "label": "Journal",
+      "path": "packs/Journal",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "Actors",
+      "label": "Actors",
+      "path": "packs/Actors",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "Items",
+      "label": "Items",
+      "path": "packs/Items",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "My Module Assets",
+      "color": "#045c5a",
+      "sorting": "m",
+      "packs": [
+        "Maps1",
+        "Journal1",
+        "Actors1",
+        "Items1"
+      ],
+      "folders": []
+    }
+  ],
+  "authors": [
+    {
+      "name": "SleepingFores7s",
+      "flags": {}
+    }
+  ],
+  "description": ""
+}
