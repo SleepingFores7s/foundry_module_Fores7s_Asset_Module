@@ -6,6 +6,8 @@
     "minimum": "14",
     "verified": "14"
   },
+  "manifest": "https://raw.githubusercontent.com/SleepingFores7s/foundry_module_Fores7s_Asset_Module/master/module.json",
+  "download": "https://github.com/SleepingFores7s/foundry_module_Fores7s_Asset_Module/archive/refs/heads/master.zip",
   "flags": {
     "canUpload": true
   },
